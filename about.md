@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Year 9 Student Studying IT
 
 ### More Information
 

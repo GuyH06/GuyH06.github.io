@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Guy Hudson
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Year 9 Student Studying IT
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: <img src="https://rlv.zcache.co.uk/golden_retriever_dog_cartoon_poster-rb28ffea4bfe6407793fcf45ed753ef62_w2q_8byvr_324.jpg" alt="Image result for cartoon dog"/>
 
 #
 # Flags below are optional

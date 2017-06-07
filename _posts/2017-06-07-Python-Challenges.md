@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>In class time my rock paer</td>
+    <td>In class time my rock paper</td>
   </tr>
 </table>
 
